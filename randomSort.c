@@ -79,6 +79,7 @@ int main(){
 
     randomSort(min, max);
 
-
+    printf("\n\n");
+    system("pause");
     return 0;
 }
